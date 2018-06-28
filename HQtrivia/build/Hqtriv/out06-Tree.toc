@@ -1,0 +1,5 @@
+('C:\\Users\\Sorin\\Desktop\\HQtrivia\\build\\Hqtriv\\google_api_python_client-1.6.6-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.so', '*.py', '*.pyc', '*.pyd'},
+ 'DATA',
+ [])

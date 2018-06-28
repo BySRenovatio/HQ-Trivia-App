@@ -1,0 +1,50 @@
+missing module named 'multiprocessing.forking' - imported by c:\users\sorin\appdata\local\programs\python\python36-32\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named posix - imported by os, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named org - imported by pickle, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named _winreg - imported by platform, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named 'java.lang' - imported by platform, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named termios - imported by tty, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named 'org.python' - imported by copy, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py, xml.sax
+missing module named 'oauth2client.locked_file' - imported by googleapiclient.discovery_cache.file_cache
+missing module named 'oauth2client.contrib.locked_file' - imported by googleapiclient.discovery_cache.file_cache
+missing module named 'google.appengine' - imported by oauth2client.client, oauth2client.contrib.appengine, oauth2client.contrib._appengine_ndb, googleapiclient.discovery_cache, googleapiclient.discovery_cache.appengine_memcache
+missing module named 'Crypto.Util' - imported by oauth2client._pycrypto_crypt
+missing module named 'Crypto.Signature' - imported by oauth2client._pycrypto_crypt
+missing module named 'Crypto.PublicKey' - imported by oauth2client._pycrypto_crypt
+missing module named Crypto - imported by oauth2client._pycrypto_crypt
+missing module named OpenSSL - imported by oauth2client._openssl_crypt
+missing module named psyco - imported by rsa.transform
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+missing module named oauth2client.util - imported by oauth2client, googleapiclient.http, googleapiclient.errors, googleapiclient.schema, googleapiclient.discovery
+missing module named webapp2 - imported by oauth2client.contrib.appengine
+missing module named six.moves.range - imported by six.moves, googleapiclient.http
+missing module named google_auth_httplib2 - imported by googleapiclient._auth
+missing module named 'google.auth' - imported by googleapiclient._auth
+missing module named google - imported by googleapiclient._auth
+missing module named socks - imported by httplib2
+missing module named "'six.moves.urllib'.parse" - imported by googleapiclient.discovery, googleapiclient.http, googleapiclient.model
+missing module named six.moves.zip - imported by six.moves, googleapiclient.discovery
+runtime module named six.moves - imported by googleapiclient.discovery, 'six.moves.urllib', oauth2client.client, oauth2client._helpers, oauth2client.transport, oauth2client.contrib.gce, oauth2client.contrib._metadata, googleapiclient.http
+missing module named StringIO - imported by six
+missing module named PIL - imported by C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named multiprocessing.Pool - imported by multiprocessing, C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named pyscreenshot - imported by C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named pytesseract - imported by C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py
+missing module named nltk - imported by C:\Users\Sorin\Desktop\HQtrivia\Hqtriv.py

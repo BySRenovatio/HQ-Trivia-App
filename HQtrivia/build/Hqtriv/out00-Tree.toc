@@ -1,0 +1,7 @@
+('c:\\users\\sorin\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\httplib2-0.11.3-py3.6.egg',
+ None,
+ {'*.pyo', 'EGG-INFO', '*.so', '*.py', '*.pyc', '*.pyd'},
+ 'DATA',
+ [('httplib2\\cacerts.txt',
+   'c:\\users\\sorin\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\httplib2-0.11.3-py3.6.egg\\httplib2\\cacerts.txt',
+   'DATA')])
