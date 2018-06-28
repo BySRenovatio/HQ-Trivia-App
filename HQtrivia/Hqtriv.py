@@ -8,13 +8,13 @@ from multiprocessing import Pool as ThreadPool
 from PIL import Image
 
 from googleapiclient.discovery import build
-# AIzaSyBbPdJw412ccxgjV7pGrgeHr1dSmQxhdGU - bysorynyos@gmail.com
-# cx - 018164122682344646569:wc9xki-vvnm
+# AIzaSyBb
+# cx - 018
 
-# AIzaSyDEheOURUxGxg0ikEoozwSih3gltFs06wM - sorin.ionut.bajenaru@gmail.com
-# cx - 013791422782072695689:-qvygz_-ybe
+# AIza
+# cx - 01
 
-SERVICE = build("customsearch", "v1", developerKey="AIzaSyDEheOURUxGxg0ikEoozwSih3gltFs06wM")
+SERVICE = build("customsearch", "v1", developerKey="AIza")
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract.exe'
 tessdata_dir_config = '--tessdata-dir "C:\\Program Files (x86)\\Tesseract-OCR\\tessdata"'
